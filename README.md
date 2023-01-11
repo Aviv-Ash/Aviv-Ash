@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aviv Ashtamker</h1>
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" style="border-radius:100%">
 <h3 align="center">A passionate Software Developer And a 3rd Year Computer Science Student</h3>
 
 - 🌱 I’m currently learning **Software Engineering, Graph Algorithms, Machine Learning, Operating Systems**
